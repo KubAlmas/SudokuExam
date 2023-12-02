@@ -72,3 +72,5 @@ solve(board)
 print('________________')
 print_board(board)
 print("You did it in " + str(random.random()) + " seconds, Great Job!")
+
+print("Hi Dude !")
